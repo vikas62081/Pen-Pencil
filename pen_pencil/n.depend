@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1500623074 source:c:\users\admin\desktop\c++\n\main.cpp
+	<iostream>
+
+1501229219 source:c:\users\admin\desktop\c++\pen_pencil\main.cpp
+	<iostream>
+	<math.h>
+
